@@ -1,0 +1,140 @@
+BasicInfo:
+  FirstName: Lincoln
+  LastName: Thurlow
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: lincoln 'at' orbitingaround 'dot' com
+
+Profile:
+   I recieved my B.S. from the University of California Santa Cruz in 2012.
+   I started a M.S. program Computer Networking before switching to a PhD program in Systems; finally leaving with my M.S. back in Computer Networks in 2016.
+   I worked in the <a href="https://web.archive.org/web/20210309163511/https://www.crss.ucsc.edu/index.html">Center for Research in Storage Systems (CRSS)</a> under <a href="https://www.google.com/search?client=firefox-b-1-e&q=ucsc+ethan+miller">Dr. Miller</a> and the Working Applied Group on Security and Privacy (WASP) under <a href="http://darrell.soe.ucsc.edu/">Dr. Long</a>.
+   I helped develop a <a href="https://bitbucket.org/ssrc/gferasure/src/master/">C++ high performance Galois field arthemetic library</a> for Erasure Codes while working under Dr. Miller.
+   My M.S. thesis advisors in Computer Networking were <a href="https://users.soe.ucsc.edu/~brad/">Dr. Smith</a> and <a href="https://campusdirectory.ucsc.edu/cd_detail?uid=obraczka">Dr. Obraczka</a>.
+   As an undergraduate I founded <a href="https://web.archive.org/web/20210621123453/https://ssc.soe.ucsc.edu/">Security Santa Cruz</a> in 2009, as of 2021 it is now <a href="https://slugsec.ucsc.edu/">Slug Security</a>. 
+
+Experience:
+  - Employer: Super Cool Company
+    Place: Oxford, UK
+    Positions:
+      - Title: Software Engineer
+        Date: Jan 2020 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+      - Title: Software Tester
+        Date: Mar 2019 - Jan 2020
+        Details:
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+  - Employer: Another super cool company
+    Place: Lisbon, PT
+    Positions:
+      - Title: Flow Cytometry Resource Specialist
+        Date: Jan 2018 - Mar 2019
+        Details:
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  - Employer: Institute of Neural Engineering
+    Place: Graz, AT
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Teaching:
+  - Course: <a href=https://courses.engineering.ucsc.edu/courses/cse150">Introduction to Computer Networks</a>
+    Place: University of California Santa Cruz
+    Years: 
+      - 2012
+      - 2013
+      - 2014
+      - 2015
+
+  - Course: <a href=https://courses.engineering.ucsc.edu/courses/cse151">Advanced Computer Networking</a>
+    Place: University of California Santa Cruz
+    Years: 
+      - 2013
+      - 2015
+
+
+Skills:
+  - Family: Networking
+    Items:
+      - Cisco IOS
+      - Cumulus
+      - Click
+  - Family: Storage
+    Items:
+      - Ceph
+      - LVM
+      - RAID
+      - OMV
+  - Family: Databases
+    Items:
+      - etcd
+      - SQL
+  - Family: Messaging
+    Items:
+      - RabbitMQ
+      - Kafka
+      - Protobufs
+  - Family: Infrastructure
+    Items:
+      - Container Runtime Interface
+      - Kubernetes
+      - Libvert/Qemu
+      - Ansible
+  - Family: Routing
+    Items:
+      - ISI
+      - OSPF
+      - RIP
+      - PIM
+      - BGP
+      - EVPN
+  - Family: Security
+    Items:
+      - Snort
+      - FreeRADIUS
+      - Encase
+      - nmap
+      - Kali
+
+Languages:
+  - Name: C
+    Level: 
+  - Name: C++
+    Level: 
+  - Name: Golang
+    Level: 
+  - Name: Python
+    Level: 
+  - Name: Javascript
+    Level: 
+  - Name: Bash
+    Level: 
+
+Diplomas:
+  - B.S. Computer Science 2012
+  - M.S. Computer Engineering 2016
+
+Interests:
+  - Security+ (expired)
